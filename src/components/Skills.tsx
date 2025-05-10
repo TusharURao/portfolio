@@ -4,9 +4,14 @@ import { Code, Database, Terminal, Brain, Users, Palette } from 'lucide-react';
 const Skills = () => {
   const skillCategories = [
     {
-      title: 'Programming Languages',
+      title: 'Programming Languages and Software Development Methodologies',
       icon: <Code className="w-6 h-6 text-purple-600" />,
-      skills: ['Java', 'Python', 'C', 'C++', 'JavaScript']
+      skills: ['Java', 'Python', 'C', 'C++', 'ObjectOriented Programming (OOPs)', 'Data Structures']
+    },
+     {
+      title: 'Web Technologies and Compliance & Testing:',
+      icon: <Code className="w-6 h-6 text-purple-600" />,
+      skills: ['HTML', 'CSS','JavaScript', 'Risk Assessment', 'Control Testing', 'AML/OFAC Awareness', 'Auditing Concepts']
     },
     {
       title: 'Machine Learning & AI',
@@ -16,7 +21,12 @@ const Skills = () => {
     {
       title: 'Development & Tools',
       icon: <Terminal className="w-6 h-6 text-purple-600" />,
-      skills: ['VS Code', 'Google Colab', 'NetBeans', 'Eclipse', 'Git']
+      skills: ['VS Code', 'Google Colab', 'NetBeans', ' Eclipse Enterprise IDE', 'Git']
+    },
+     {
+      title: 'Data & Analytics:',
+      icon: <Code className="w-6 h-6 text-purple-600" />,
+      skills: ['SQL', 'Excel', 'Power BI', 'Data Visualization', 'Dashboarding']
     },
     {
       title: 'Database & Systems',
@@ -26,14 +36,16 @@ const Skills = () => {
     {
       title: 'Soft Skills',
       icon: <Users className="w-6 h-6 text-purple-600" />,
-      skills: ['Leadership', 'Communication', 'Problem Solving', 'Team Work', 'Quick Learning']
+      skills: ['Leadership', 'Communication', 'Problem Solving', 'Quick Learning','Collaborative', 'Persuasive', 'Meticulous','Prompt', 'Swift grasper', 'Visionary']
     },
     {
       title: 'Performing Arts',
       icon: <Palette className="w-6 h-6 text-purple-600" />,
-      skills: ['Bharatanatyam', 'Mohiniyattam', 'Kuchipudi', 'Carnatic Music', 'Veena']
+      skills: ['Bharatanatyam', 'Mohiniyattam', 'Kuchipudi', 'Carnatic Music', 'Veena','Yakshagana']
     }
   ];
+
+
 
   return (
     <section id="skills" className="py-20 bg-gray-50 dark:bg-gray-800">
