@@ -5,7 +5,7 @@ import { Calendar, MapPin, Building } from 'lucide-react';
 const Experience = () => {
   const experiences = [
     {
-      title: 'Trainee Generative AI Engineer',
+      title: 'Generative AI Engineer Trainee',
       company: 'Webexela',
       location: 'India',
       period: 'January 2024',
