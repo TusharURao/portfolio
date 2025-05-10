@@ -62,7 +62,7 @@ const About = () => {
                 My journey combines technology and classical arts. With over 14 years of experience in Bharatanatyam, Mohiniyattam, and Kuchipudi, I bring a unique perspective to my technical work.
               </p>
               <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
-                I'm passionate about Machine Learning, Natural Language Processing, and Cybersecurity, with a focus on creating impactful AI-driven solutions.
+                I'm passionate about Machine Learning, Natural Language Processing, and Cybersecurity, Data analytics with a focus on creating impactful AI-driven solutions.
               </p>
             </div>
           </div>
