@@ -4,10 +4,16 @@ import { GraduationCap, Calendar } from 'lucide-react';
 const Education = () => {
   const education = [
     {
+      degree: 'ME in Big Data Analytics',
+      institution: 'Manipal School of Information Sciences',
+      period: '2025 - Present',
+      description: 'Currently in I Year'
+    },
+    {
       degree: 'B.Tech in Information Science Engineering',
       institution: 'Sahyadri College of Engineering and Management',
-      period: '2021 - Present',
-      description: 'Currently in IV Year'
+      period: '2021 - 2025',
+      description: 'UG Education'
     },
     {
       degree: 'Class XII',
