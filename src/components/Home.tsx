@@ -16,7 +16,7 @@ const Home = () => {
               Big Data Analytics Student | Data Enthusiast | Performing Artist
             </h2>
             <p className="text-xl text-gray-600 dark:text-gray-400 mb-8">
-              Bridging innovation and tradition through technology and classical arts
+              Building with code, tech and AI while staying rooted in classical arts.
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center md:justify-start space-y-4 sm:space-y-0 sm:space-x-4">
               <a
