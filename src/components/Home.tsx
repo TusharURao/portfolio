@@ -34,11 +34,11 @@ const Home = () => {
             </div>
           </div>
           <div className="md:w-1/2 flex justify-center items-center">
-            <div className="relative w-72 h-72 md:w-[450px] md:h-[450px] bg-gradient-to-tr from-emerald-600/10 to-transparent rounded-lg p-3">
+            <div className="relative w-80 md:w-[500px] lg:w-[550px]">
               <img
-                src="../images/Profile.png"
+                src="/images/Profile.png"
                 alt="Tushar U Rao"
-                className="w-full h-full object-cover rounded-lg shadow-2xl"
+                className="w-full h-auto object-contain rounded-xl shadow-2xl"
                 loading="eager"
               />
             </div>

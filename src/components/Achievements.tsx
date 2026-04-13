@@ -4,24 +4,24 @@ import { Trophy, Award, Code } from 'lucide-react';
 const Achievements = () => {
   const achievements = [
     {
-      title: 'II Rank in Vidwat Exam',
+      title: 'I Rank in Vidwat Exam',
       category: 'Performing Arts',
       organization: 'Bharatanatyam - 2022',
       description: 'Achieved second rank in the prestigious Vidwat examination, demonstrating mastery in classical dance.',
       icon: <Award className="w-8 h-8 text-emerald-600" />
     },
     {
-      title: 'Hackathon Success',
+      title: 'Hackathon Participation',
       category: 'Technology',
       organization: 'Multiple Events',
       description: 'Finalist and active participant in various hackathons, showcasing problem-solving and innovation skills.',
       icon: <Code className="w-8 h-8 text-emerald-600" />
     },
     {
-      title: 'AI Project Portfolio',
+      title: 'Research and paper Publication',
       category: 'Research & Development',
       organization: 'Academic Projects',
-      description: 'Successfully completed three major AI-driven projects, demonstrating practical application of machine learning concepts.',
+      description: 'Ongoing Paper .',
       icon: <Trophy className="w-8 h-8 text-emerald-600" />
     }
   ];

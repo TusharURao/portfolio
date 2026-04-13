@@ -31,7 +31,7 @@ const About = () => {
                 <div>
                   <h3 className="font-semibold text-lg text-gray-900 dark:text-white mb-2">Who am I</h3>
                   <p className="text-gray-700 dark:text-gray-300">
-                    Aspiring Data & AI professional with strong foundations in data analytics, data engineering, and machine learning. Skilled in Python, SQL, and Power BI, with experience in building ETL pipelines, performing statistical analysis, and developing AI- driven solutions. Passionate about transforming data into actionable insights and supporting data-driven decision-making.
+                    Aspiring Data & AI Enthusiast, Pursuing M.E in Big Data Analytics 
                   </p>
                 </div>
               </div>
@@ -51,7 +51,7 @@ const About = () => {
                 <div>
                   <h3 className="font-semibold text-lg text-gray-900 dark:text-white mb-2">Education</h3>
                   <p className="text-gray-700 dark:text-gray-300">
-                    Sahyadri College of Engineering and Management
+                    Manipal School of Information Sciences, MAHE, Manipal
                   </p>
                 </div>
               </div>
@@ -59,10 +59,7 @@ const About = () => {
             
             <div className="space-y-4 p-6 rounded-xl bg-gray-50 dark:bg-gray-800 transition-all duration-300 hover:shadow-lg">
               <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
-                My journey combines technology and classical arts. With over 14 years of experience in Bharatanatyam, Mohiniyattam, and Kuchipudi, I bring a unique perspective to my technical work.
-              </p>
-              <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
-                I'm passionate about Machine Learning, Natural Language Processing, and Cybersecurity, Data analytics with a focus on creating impactful AI-driven solutions.
+              Aspiring Data & AI professional with strong foundations in data analytics, data engineering, and machine learning. Skilled in Python, SQL, and Power BI, with experience in building ETL pipelines, performing statistical analysis, and developing AI- driven solutions. Passionate about transforming data into actionable insights and supporting data-driven decision-making.
               </p>
             </div>
           </div>
