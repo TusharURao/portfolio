@@ -31,7 +31,7 @@ const About = () => {
                 <div>
                   <h3 className="font-semibold text-lg text-gray-900 dark:text-white mb-2">Who am I</h3>
                   <p className="text-gray-700 dark:text-gray-300">
-                    A final-year B.Tech student in Information Science & Engineering, passionate about technology and classical arts.
+                    Aspiring Data & AI professional with strong foundations in data analytics, data engineering, and machine learning. Skilled in Python, SQL, and Power BI, with experience in building ETL pipelines, performing statistical analysis, and developing AI- driven solutions. Passionate about transforming data into actionable insights and supporting data-driven decision-making.
                   </p>
                 </div>
               </div>
