@@ -9,7 +9,7 @@ const Home = () => {
           <div className="md:w-1/2 text-center md:text-left">
             <h1 className="text-4xl md:text-6xl font-bold mb-6">
               <span className="bg-gradient-to-r from-emerald-600 to-teal-600 bg-clip-text text-transparent">
-                Tushar U Rao
+                Tushar U
               </span>
             </h1>
             <h2 className="text-2xl md:text-3xl text-gray-700 dark:text-gray-300 mb-4">
