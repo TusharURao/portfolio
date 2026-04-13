@@ -28,7 +28,7 @@ const Contact = () => {
               <div className="flex items-center">
                 <Mail className="w-6 h-6 text-purple-600 mr-4" />
                 <a href="mailto:tusharu724@gmail.com" className="text-gray-600 dark:text-gray-400 hover:text-purple-600">
-                  tusharu724@gmail.com
+                  tusharumeshrao@gmail.com
                 </a>
               </div>
               <div className="flex items-center">
