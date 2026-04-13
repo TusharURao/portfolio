@@ -9,7 +9,7 @@ import Experience from './components/Experience';
 import Certifications from './components/Certifications';
 import Education from './components/Education';
 import Contact from './components/Contact';
-import Blog from './components/Blog';
+// import Blog from './components/Blog';
 import Achievements from './components/Achievements';
 
 function App() {
@@ -41,7 +41,7 @@ function App() {
             <div className="flex items-center space-x-2">
               <Code className="w-6 h-6 text-emerald-600" />
               <a href="#home" className="text-xl font-bold bg-gradient-to-r from-emerald-600 to-teal-600 bg-clip-text text-transparent">
-                Algorithms & Aesthetics: Tushar's Journey
+                Algorithms & Aesthetics: Tushar U
               </a>
             </div>
             
