@@ -100,7 +100,6 @@ function App() {
         <Certifications />
         <Education />
         <Achievements />
-        <Blog />
         <Contact />
       </main>
 
